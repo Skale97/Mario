@@ -1,0 +1,15 @@
+C:\Users\Marko\AppData\Local\Temporary Projects\Sigrica\bin\Debug\Sigrica.exe
+C:\Users\Marko\AppData\Local\Temporary Projects\Sigrica\bin\Debug\Sigrica.pdb
+C:\Users\Marko\AppData\Local\Temporary Projects\Sigrica\obj\x86\Debug\Sigrica.Properties.Resources.resources
+C:\Users\Marko\AppData\Local\Temporary Projects\Sigrica\obj\x86\Debug\Sigrica.csproj.GenerateResource.Cache
+C:\Users\Marko\AppData\Local\Temporary Projects\Sigrica\obj\x86\Debug\Sigrica.exe
+C:\Users\Marko\AppData\Local\Temporary Projects\Sigrica\obj\x86\Debug\Sigrica.pdb
+C:\Users\Marko\AppData\Local\Temporary Projects\Sigrica\obj\x86\Debug\Sigrica.frm.resources
+E:\C# projekti\Sigrica\Sigrica\obj\x86\Debug\Sigrica.exe
+E:\C# projekti\Sigrica\Sigrica\obj\x86\Debug\Sigrica.pdb
+E:\C# projekti\Sigrica\Sigrica\bin\Debug\Sigrica.exe
+E:\C# projekti\Sigrica\Sigrica\bin\Debug\Sigrica.pdb
+E:\C# projekti\Sigrica\Sigrica\obj\x86\Debug\Sigrica.frm.resources
+E:\C# projekti\Sigrica\Sigrica\obj\x86\Debug\Sigrica.Properties.Resources.resources
+E:\C# projekti\Sigrica\Sigrica\obj\x86\Debug\Sigrica.csproj.GenerateResource.Cache
+E:\C# projekti\Sigrica\Sigrica\obj\x86\Debug\Sigrica.csprojResolveAssemblyReference.cache

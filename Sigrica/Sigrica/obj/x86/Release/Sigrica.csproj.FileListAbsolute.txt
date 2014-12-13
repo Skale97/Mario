@@ -1,0 +1,7 @@
+E:\C# projekti\Sigrica\Sigrica\bin\Release\Sigrica.exe
+E:\C# projekti\Sigrica\Sigrica\bin\Release\Sigrica.pdb
+E:\C# projekti\Sigrica\Sigrica\obj\x86\Release\Sigrica.frm.resources
+E:\C# projekti\Sigrica\Sigrica\obj\x86\Release\Sigrica.Properties.Resources.resources
+E:\C# projekti\Sigrica\Sigrica\obj\x86\Release\Sigrica.csproj.GenerateResource.Cache
+E:\C# projekti\Sigrica\Sigrica\obj\x86\Release\Sigrica.exe
+E:\C# projekti\Sigrica\Sigrica\obj\x86\Release\Sigrica.pdb
